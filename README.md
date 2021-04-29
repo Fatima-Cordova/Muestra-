@@ -10,3 +10,5 @@ DISTRIBUCION DE RAMAS
 3. QA
 
 Esto lo hice desde mi rama feature/funcion02
+
+Trabajando con visual studio code
